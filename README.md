@@ -1,4 +1,4 @@
-# Mahalakshmi portfolio
+# Thamimmaji portfolio
 
 A Pen created on CodePen.
 
